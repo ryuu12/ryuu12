@@ -1,4 +1,4 @@
-# Hi there, I'm Rayhan Rusyd 👋
+# Hi there, Rayhan Rusyd here 👋
 A student in Computer Engineering. Love to work on a website using Django.py, make an HTML and CSS template, and create a Discord Bot using Python and Javascript. Currently working on a website HTML and CSS. 
 
 ### 📊 My Github Stats
