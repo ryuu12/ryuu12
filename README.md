@@ -1,11 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Rayhan Rusyd 👋
+A student in Computer Engineering. Love to work on a website using Django.py, make an HTML and CSS template, and create a Discord Bot using Python and Javascript. Currently working on a website HTML and CSS. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ryuu12&count_private=true&show_icons=true" />
+### 📊 My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ryuu12&count_private=true&show_icons=true&theme=synthwave" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuu12&layout=compact" />
+### 💡 My Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuu12&layout=compact&theme=synthwave" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mister_ucx12&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+## Need some help? Connect with me 💬
+- [Website](https://www.ryuu12.com/)
+- [Instagram](https://www.instagram.com/rayhanrusyd/)
+- [Twitter](https://twitter.com/rayhanrusyd)
+- [LinkedIn](https://www.linkedin.com/in/rayhanrusyd/)
 
 <!--
 **ryuu12/ryuu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
