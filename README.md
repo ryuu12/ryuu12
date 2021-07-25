@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=ryuu12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://github-readme-stats.vercel.app/api?username=ryuu12&count_private=true&show_icons=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuu12&layout=compact" />
