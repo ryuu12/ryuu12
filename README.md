@@ -1,11 +1,8 @@
 # Hi there, Rayhan Rusyd here 👋
-A student in Computer Engineering. Love to work on a website using Django.py, make an HTML and CSS template, and create a Discord Bot using Python and Javascript. Currently working on a website HTML and CSS. 
-
-### 📊 My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuu12&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+A student in Computer Engineering. Love to work on a website using Django.py, make an HTML and CSS template, and create a Discord Bot using Python and Javascript. 
 
 ### 💡 My Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuu12&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuu12&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Need some help? Connect with me 💬
 - [Website](https://www.ryuu12.com/)
