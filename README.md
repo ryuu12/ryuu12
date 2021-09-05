@@ -14,7 +14,7 @@ A student in Computer Engineering. Love to work on a website using Django.py, ma
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuu12&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🧰 Frameworks
+### 🧰 My Frameworks
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Express" width="26px" src="https://media.discordapp.net/attachments/616638914530246656/884017264951689296/expressjds.png?width=480&height=480" />
