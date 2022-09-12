@@ -1,5 +1,5 @@
 # Hi there, Rayhan Rusyd here 👋
-A student in Faculty of Industrial Technology. Love to work on a website using Django.py, make an HTML and CSS template, and create a Discord Bot using Python and Javascript. 
+A student in Faculty of Industrial Technology, ITB. Love to work on a website using Django.py, make an HTML and CSS template, and create a Discord Bot using Python and Javascript. 
 
 ### 📊 My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuu12)](https://github.com/anuraghazra/github-readme-stats)
