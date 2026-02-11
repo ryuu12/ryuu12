@@ -1,5 +1,5 @@
-# Hi there, just call me Mochi 👋
-A student in Physics Engineering in ITB. Doing front-end for a hobby, making an HTML and CSS template, and experimenting with Discord Bot using Python and Javascript. 
+# Hi there, just call me Rayhan 👋
+Majoring in Engineering Physics in ITB. Doing front-end for a hobby, making an HTML and CSS template, and experimenting with Discord Bot using Python and Javascript. 
 
 ### 📊 My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuu12)](https://github.com/anuraghazra/github-readme-stats)
